@@ -1,11 +1,20 @@
 {
-	"Legendware": {
-		"GameName": "Counter Strike",
-		"BtnName": "Legendware",
-		"BtnIcon": "https://cdn.discordapp.com/attachments/1012122370925920278/1012602196573032518/Logo_icon.png",
-		"Status": "Undetected",
-		"Date": "May 21, 2022",
-		"Link": "https://cdn.discordapp.com/attachments/962276028506587198/969008735727022270/qo0.dll",
-		"Image": "https://cdn.discordapp.com/attachments/1012122370925920278/1012602196573032518/Logo_icon.png",
-	}
+   "NEPS - Osiris Paste Multihack":{
+      "GameName":"Counter Strike: Global Offensive",
+      "BtnName":"NEPS",
+      "BtnIcon":"https://cdn.discordapp.com/attachments/1012122370925920278/1014847923919523860/csgo_icon.png",
+      "Status":"Undetected",
+      "Date":"September 1, 2022",
+      "Link":"https://madui.app",
+      "Image":"https://cdn.discordapp.com/attachments/1012122370925920278/1014849018364448818/neps_bg.png"
+   },
+   "SEOwned":{
+      "GameName":"Team Fortress 2",
+      "BtnName":"SEOwned",
+      "BtnIcon":"https://cdn.discordapp.com/attachments/1012122370925920278/1014847924498350162/Team_Fortress_2_style_logo.png",
+      "Status":"Undetected",
+      "Date":"September 1, 2022",
+      "Link":"https://madui.app",
+      "Image":"https://cdn.discordapp.com/attachments/1012122370925920278/1014849433994809344/dd3f4a2895f7426a6d751381053f4f78.png"
+   }
 }
