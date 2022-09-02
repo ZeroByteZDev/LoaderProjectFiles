@@ -4,7 +4,7 @@
       "BtnName":"NEPS",
       "BtnIcon":"https://cdn.discordapp.com/attachments/1012122370925920278/1014847923919523860/csgo_icon.png",
       "Status":"UNDETECTED",
-      "Injection":"LoadLibCSGO",
+      "Injection":"LoadLibraryCSGO",
       "Date":"September 1, 2022",
       "Link":"https://madui.app",
       "Image":"https://cdn.discordapp.com/attachments/1012122370925920278/1014849018364448818/neps_bg.png"
@@ -14,7 +14,7 @@
       "BtnName":"SEOwned",
       "BtnIcon":"https://cdn.discordapp.com/attachments/1012122370925920278/1014847924498350162/Team_Fortress_2_style_logo.png",
       "Status":"UNSAFE",
-      "Injection":"LoadLibCSGO",
+      "Injection":"LoadLibraryCSGO",
       "Date":"September 1, 2022",
       "Link":"https://madui.app",
       "Image":"https://cdn.discordapp.com/attachments/1012122370925920278/1014849433994809344/dd3f4a2895f7426a6d751381053f4f78.png"
@@ -24,7 +24,7 @@
       "BtnName":"MadValo",
       "BtnIcon":"https://cdn.discordapp.com/attachments/1012122370925920278/1014847924498350162/Team_Fortress_2_style_logo.png",
       "Status":"OUTDATED",
-      "Injection":"LoadLibCSGO",
+      "Injection":"LoadLibraryCSGO",
       "Date":"September 1, 2022",
       "Link":"https://madui.app",
       "Image":"https://cdn.discordapp.com/attachments/1012122370925920278/1014849433994809344/dd3f4a2895f7426a6d751381053f4f78.png"
