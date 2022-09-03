@@ -1,9 +1,23 @@
 {
    "1":{
-      "GameName":"Team Fortress 2",
+      "GameName":"Counter Strike: Global Offensive",
       "Description":"Updated to the latest game update.",
-      "Image":"https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
+      "Image":"https://noypicheats.com/data/avatars/l/0/1.jpg",
       "Date":"September 2, 2022",
+      "AuthorName":"ZeroByteZ",
+   },
+      "2":{
+      "GameName":"Counter Strike: Global Offensive",
+      "Description":"Updated to the latest game update.",
+      "Image":"https://noypicheats.com/data/avatars/l/0/1.jpg",
+      "Date":"September 3, 2022",
+      "AuthorName":"ZeroByteZ",
+   },
+      "3":{
+      "GameName":"Counter Strike: Global Offensive",
+      "Description":"Updated to the latest game update.",
+      "Image":"https://noypicheats.com/data/avatars/l/0/1.jpg",
+      "Date":"September 4, 2022",
       "AuthorName":"ZeroByteZ",
    }
 }
