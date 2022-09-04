@@ -1,6 +1,6 @@
 {
    "1":{
-      "Title":"Hey",
+      "Title":"Test 1",
       "TagName":"ANNOUNCEMENT",
       "TagColor":"1",
       "Description":"Test.",
@@ -9,7 +9,7 @@
       "Date":"May 1, 2022"
    },
    "2":{
-      "Title":"Hello",
+      "Title":"Test 2",
       "TagName":"IMPORTANT",
       "TagColor":"2",
       "Description":"Test2.",
@@ -18,8 +18,8 @@
       "Date":"May 1, 2022"
    },
    "3":{
-      "Title":"Bienvenidos",
-      "TagName":"URGENT",
+      "Title":"Test 3",
+      "TagName":"SEVERE",
       "TagColor":"3",
       "Description":"Test3.",
       "Image":"https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
