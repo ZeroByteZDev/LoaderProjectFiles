@@ -1,29 +1,14 @@
 {
-   "1":{
-      "Title":"Test 1",
-      "TagName":"ANNOUNCEMENT",
-      "TagColor":"1",
-      "Description":"Test.",
-      "Image":"https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
-      "DirectLink":"https://madloader.app/#download",
-      "Date":"May 1, 2022"
+   "Osiris Added!": {
+      "Description": "Osiris Added to Library.",
+      "GameName": "Counter Strike: Global Offensive",
+      "Date": "September 21, 2022",
+      "Image": "http://localhost/loader/images/csgo_300x175.png"
    },
-   "2":{
-      "Title":"Test 2",
-      "TagName":"IMPORTANT",
-      "TagColor":"2",
-      "Description":"Test2.",
-      "Image":"https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
-      "DirectLink":"https://madloader.app/#download",
-      "Date":"May 1, 2022"
-   },
-   "3":{
-      "Title":"Test 3",
-      "TagName":"SEVERE",
-      "TagColor":"3",
-      "Description":"Test3.",
-      "Image":"https://cdn.discordapp.com/attachments/898842027935019011/942992581451718726/madlogo-new-transparent.png",
-      "DirectLink":"https://madloader.app/#download",
-      "Date":"May 1, 2022"
+   "ClemExternal Added!": {
+      "Description": "ClemExternal Added to Library.",
+      "GameName": "Counter Strike: Global Offensive",
+      "Date": "September 21, 2022",
+      "Image": "http://localhost/loader/images/csgo_300x175.png"
    }
 }
