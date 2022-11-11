@@ -1,42 +1,152 @@
 {
    "Osiris - CSGO Multihack": {
-      "GameName": "Counter Strike: Global Offensive",
-      "Author": "Daniel Krupinski",
-      "Status": "Unsafe",
-      "Date": "September 21, 2022",
-      "Image": "https://cdn.discordapp.com/attachments/1038604070144974848/1038604130140299395/csgo_300x175.png",
-      "Injection": "LoadLibraryGO",
-      "procname": "",
-      "Link": "https://cdn.discordapp.com/attachments/1022635109330989107/1022692029844688968/Osiris.dll.aes"
-   },
-   "Osiris - CSGO Multihack (LoadLibrary no bypass mode)": {
-      "GameName": "Counter Strike: Global Offensive",
-      "Author": "Daniel Krupinski",
-      "Status": "Unsafe",
-      "Date": "September 21, 2022",
-      "Image": "https://cdn.discordapp.com/attachments/1038604070144974848/1038604130140299395/csgo_300x175.png",
-      "Injection": "LoadLibrary",
-      "procname": "csgo",
-      "Link": "https://cdn.discordapp.com/attachments/1022635109330989107/1022692029844688968/Osiris.dll.aes"
-   },
-   "ClemExternal CSGO - ESP, Chams, TriggerBot, Aimbot, Radar": {
-      "GameName": "Counter Strike: Global Offensive",
-      "Author": "xxCary",
-      "Status": "Unsafe",
-      "Date": "September 28, 2022",
-      "Image": "https://cdn.discordapp.com/attachments/1038604070144974848/1038604130140299395/csgo_300x175.png",
-      "Injection": "Exe",
-      "procname": "",
-      "Link": "https://cdn.discordapp.com/attachments/1012122370925920278/1024625587660275763/ClemExternal.exe.aes"
-   },
-   "RaweTrip - Free CS:GO Software": {
-      "GameName": "Counter Strike: Global Offensive",
-      "Author": "xxCary",
       "Status": "Undetected",
-      "Date": "September 28, 2022",
-      "Image": "https://cdn.discordapp.com/attachments/1038604070144974848/1038604130140299395/csgo_300x175.png",
-      "Injection": "ManualMap",
-      "procname": "csgo",
-      "Link": "https://cdn.discordapp.com/attachments/1012122370925920278/1025526733140660284/rawetrip.dll.aes"
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/Osiris.dll"
+   },
+   "AirFlow": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/airflow.dll"
+   },
+   "AngelRose.ga": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/angelrose.dll"
+   },
+   "Aurora": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/aurora.dll"
+   },
+   "BACKDOOR": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/backdoor.dll"
+   },
+   "BackMove": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/backmove.dll"
+   },
+   "Clownery.win": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/clownery.dll"
+   },
+   "Echozy.pw": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/echozy.dll"
+   },
+   "FluidAim": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/fludaim.dll"
+   },
+   "HydraWebz": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/hydrawebz.dll"
+   },
+   "Interium": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/interium.dll"
+   },
+   "Clarity.cc": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/luna.dll"
+   },
+   "Luna v3": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/lunav3.dll"
+   },
+   "Melon Project": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/melonproject.dll"
+   },
+   "Moonlight": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/moonlight.dll"
+   },
+   "Naval": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/naval.dll"
+   },
+   "OneTap v4 (Paste)": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/onetap4.dll"
+   },
+   "Orbit": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/orbit.dll"
+   },
+   "RaweTrip": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/rawetrip.dll"
+   },
+   "Reflect": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/reflect.dll"
+   },
+   "Reversive": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/reversive.dll"
+   },
+   "Rifk7": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/rifk7.dll"
+   },
+   "RisingEdge": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/risingedge.dll"
+   },
+   "Sakara": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/sakara.dll"
+   },
+   "Seanwebz": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/seanwebz.dll"
+   },
+   "Silentium": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/silentium.dll"
+   },
+   "Supremacy": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/supremacy.dll"
+   },
+   "Weave": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/weave.dll"
+   },
+   "Xeno": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/xeno.dll"
+   },
+   "xHanger": {
+      "Status": "Undetected",
+      "Date": "November 12, 2022",
+      "Link": "https://raw.githubusercontent.com/ZeroByteZDev/LoaderProjectFiles/main/Files/xhanger.dll"
    }
 }
